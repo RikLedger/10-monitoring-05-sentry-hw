@@ -106,4 +106,4 @@ Cписок событий проекта после нажатия `Resolved`:
 
 ![img_11.png](IMG/img_11.png)
 
-Код на Python доступен по ссылке: https://github.com/DemoniumBlack/fedorchukds-devops-33-30/blob/main/SRC/main.py
+Код на Python доступен по ссылке: https://github.com/RikLedger/10-monitoring-05-sentry-hw/blob/main/SRC%20/main.py
